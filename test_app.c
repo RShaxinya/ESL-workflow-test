@@ -1,1 +1,1 @@
-//Simple test application for 3D vectors
+// Test application for 3D vectors
