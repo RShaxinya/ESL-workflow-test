@@ -9,6 +9,6 @@ double z;
 
 Vector add(Vector a,Vector b);
 Vector sub(Vector a,Vector b);
-Vector dot(Vector a,Vector b);
+double dot(Vector a,Vector b);
 
 #endif
