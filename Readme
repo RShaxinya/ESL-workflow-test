@@ -1,0 +1,11 @@
+# Blinky Project for Device #6404
+
+## Blinking Pattern
+- 🔴 RED LED: 6 times
+- 🟢 GREEN LED: 4 times  
+- 🔵 BLUE LED: 0 times (skip)
+- 🟡 YELLOW LED: 4 times
+
+## Build
+```bash
+make clean && make
