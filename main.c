@@ -5,7 +5,7 @@
 #define LED_BLUE    25
 #define LED_YELLOW  26
 
-// Простая функция задержки
+
 void simple_delay(uint32_t milliseconds) {
     for (volatile uint32_t i = 0; i < milliseconds * 1000; i++) {
         // Пустой цикл
